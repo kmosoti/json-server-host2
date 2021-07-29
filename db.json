@@ -1,0 +1,87 @@
+{
+	"Azure_accelerated_computing": [{
+			"id": 1,
+			"name": "Standard_ND24s"
+		},
+		{
+			"id": 2,
+			"name": "Standard_NV24_Promo"
+		},
+		{
+			"id": 3,
+			"name": "Standard_NP10s"
+		},
+		{
+			"id": 4,
+			"name": "Standard_NC16as_T4_v3"
+		}
+	],
+	"Azure_compute_optimized": [{
+			"id": 1,
+			"name": "Standard_HB120rs_v2"
+		},
+		{
+			"id": 2,
+			"name": "Standard_FX12mds"
+		},
+		{
+			"id": 3,
+			"name": "Standard_F2s_v2"
+		},
+		{
+			"id": 4,
+			"name": "Standard_F2"
+		}
+	],
+	"Azure_general_purpose": [{
+			"id": 1,
+			"name": "Basic_A0"
+		},
+		{
+			"id": 2,
+			"name": "Standard_D32a_v4"
+		},
+		{
+			"id": 3,
+			"name": "Standard_A2m_v2"
+		},
+		{
+			"id": 4,
+			"name": "Standard_A4"
+		}
+	],
+	"Azure_memory_optimized": [{
+			"id": 1,
+			"name": "Standard_E48ds_v4"
+		},
+		{
+			"id": 2,
+			"name": "Standard_M128-64ms"
+		},
+		{
+			"id": 3,
+			"name": "Standard_GS5-8"
+		},
+		{
+			"id": 4,
+			"name": "Standard_GS1"
+		}
+	],
+	"Azure_storage_optimized": [{
+			"id": 1,
+			"name": "Standard_L4s"
+		},
+		{
+			"id": 2,
+			"name": "Standard_L8s"
+		},
+		{
+			"id": 3,
+			"name": "Standard_L32s_v2"
+		},
+		{
+			"id": 4,
+			"name": "Standard_L80s_v2"
+		}
+	]
+}
